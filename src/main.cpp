@@ -1,7 +1,7 @@
 #include <iostream>
 
 //#include "GameClasses/Game.h"
-#include "SpinnyAppClasses/App.h"
+#include "../header/App.h"
 
 int main()
 {

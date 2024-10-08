@@ -2,7 +2,7 @@
 // Created by David Valenzuela on 3/10/24.
 //
 
-#include "Line.h"
+#include "../header/Line.h"
 
 Line::Line(sf::Vector2f origin, sf::Vector2f size, float direction)
     : origin(origin), size(size), endOfLine(origin + size), direction(direction) {

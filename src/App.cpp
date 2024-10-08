@@ -1,4 +1,4 @@
-#include "App.h"
+#include "../header/App.h"
 #include <cmath>
 
 App::App() {

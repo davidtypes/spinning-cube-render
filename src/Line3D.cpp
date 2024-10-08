@@ -2,8 +2,8 @@
 // Created by David Valenzuela on 3/10/24.
 //
 
-#include "Line3D.h"
-#include "OtherFunctions.h"
+#include "../header/Line3D.h"
+#include "../header/OtherFunctions.h"
 #include <cmath>
 
 Line3D::Line3D(sf::Vector3f origin, sf::Vector3f size, float radial, float azimuthal, float direction)
